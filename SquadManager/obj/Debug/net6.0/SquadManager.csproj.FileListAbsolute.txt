@@ -28,3 +28,9 @@ C:\Users\kepler.pereira.BR6\Documents\Workspace\MeuLivroDeReceitas\SquadManager\
 C:\Users\kepler.pereira.BR6\Documents\Workspace\MeuLivroDeReceitas\SquadManager\SquadManager\obj\Debug\net6.0\SquadManager.pdb
 C:\Users\kepler.pereira.BR6\Documents\Workspace\MeuLivroDeReceitas\SquadManager\SquadManager\obj\Debug\net6.0\SquadManager.genruntimeconfig.cache
 C:\Users\kepler.pereira.BR6\Documents\Workspace\MeuLivroDeReceitas\SquadManager\SquadManager\obj\Debug\net6.0\ref\SquadManager.dll
+C:\Users\kepler.pereira.BR6\Documents\Workspace\MeuLivroDeReceitas\SquadManager\SquadManager\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\kepler.pereira.BR6\Documents\Workspace\MeuLivroDeReceitas\SquadManager\SquadManager\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\kepler.pereira.BR6\Documents\Workspace\MeuLivroDeReceitas\SquadManager\SquadManager\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kepler.pereira.BR6\Documents\Workspace\MeuLivroDeReceitas\SquadManager\SquadManager\obj\Debug\net6.0\SquadManager.csproj.AssemblyReference.cache
+C:\Users\kepler.pereira.BR6\Documents\Workspace\MeuLivroDeReceitas\SquadManager\SquadManager\obj\Debug\net6.0\SquadManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kepler.pereira.BR6\Documents\Workspace\MeuLivroDeReceitas\SquadManager\SquadManager\obj\Debug\net6.0\SquadManager.csproj.CopyComplete

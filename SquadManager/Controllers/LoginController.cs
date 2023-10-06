@@ -23,5 +23,12 @@ namespace SquadManager.Controllers
 
             return View("index", user);
         }
+
+        public IActionResult Test(UserViewModel user)
+        {
+
+            user.Email = "Email Enviado.";
+            return View("index", user);
+        }
     }
 }
